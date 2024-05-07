@@ -4,7 +4,11 @@
   </head>
   <body>
     <h1 id="title">This is my simple webpage</h1>
-    <div class="container clickable"> Click me
+<<<<<<< HEAD
+    <div class="container">
+=======
+    <div class="content clickable"> Click me
+>>>>>>> Dalraj_Bains_feature1
     </div>
     <script src="app.js"></script>
   </body>
